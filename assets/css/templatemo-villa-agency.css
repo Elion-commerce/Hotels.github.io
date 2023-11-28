@@ -1729,7 +1729,7 @@ body {
 
 @media (max-width: 992px) {
   .sub-header {
-    display: inline-block;
+    display: none;
   }
   .header-area .main-nav .logo h1 {
     line-height: 100px;
